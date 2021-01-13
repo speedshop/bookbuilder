@@ -15,4 +15,4 @@ clean:
 	rm -rf _release
 
 wordcount:
-	wc -w `find . -name "contents/**/*.md"`
+	wc -w `find . -name "content/**/*.md"`
